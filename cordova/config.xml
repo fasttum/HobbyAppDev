@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.testing.hobbyappdev" version="0.1.0">
+  <name>Hobbyappdev</name>
+  <description>
+    This is my first app without coffee
+  </description>
+  <author email="arslan.ahmad.faisal@gmail.com">
+    Arslan
+  </author>
+</widget>
